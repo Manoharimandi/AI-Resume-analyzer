@@ -6,3 +6,5 @@ python-docx>=1.1
 reportlab>=4.2
 scikit-learn>=1.4
 sentence-transformers>=3.0
+torch>=2.4
+torchvision>=0.19

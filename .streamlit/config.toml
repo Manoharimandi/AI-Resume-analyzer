@@ -1,0 +1,7 @@
+[server]
+# Avoids optional file-watcher conflicts with transformer packages.
+fileWatcherType = "none"
+
+[theme]
+base = "dark"
+primaryColor = "#14b8a6"
