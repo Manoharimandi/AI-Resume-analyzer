@@ -104,4 +104,4 @@ Open the local URL shown in Terminal, usually `http://localhost:8501`.
 
 **Manohar Imandi**
 
-If you found this project helpful, feel free to star the repository.
+
